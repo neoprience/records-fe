@@ -1,16 +1,16 @@
 # Map 类似于json对象
 
-1.new Map(["A": 1], ["B", 2])
+1. new Map(["A": 1], ["B", 2])
 
-2.key 不仅是字符串还可以是对象
+2. key 不仅是字符串还可以是对象
 
-3.一个key只能对应一个value
+3. 一个key只能对应一个value
 
 4. set, has, delete, get, clear方法
 
 # Set 类似于数组
 
-1.new Set([1, 2, 3, 4])
+1. new Set([1, 2, 3, 4])
 
 2. 去重方法
    
@@ -20,7 +20,7 @@
 
 5. <strong>没有get方法，通过迭代遍历获取值</strong>
 
-6.entries方法, 输出结构为[1, 1], [2, 2]
+6. entries方法, 输出结构为[1, 1], [2, 2]
 
 # 特点对比分析
 
